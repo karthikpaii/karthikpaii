@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Karthik Pai
-**Aspiring Software Developer || MCA Student |Interested in AI and Cybersecurity**
+**Aspiring Software Developer || MCA Student |Interested in Software Development with AI and Cybersecurity**
 
 Contact Info: 👉 ✉️ **karthikpai282@gmail.com** 
 
