@@ -3,8 +3,8 @@
 
 Contact Info: 👉 ✉️ **karthikpai282@gmail.com** 
 
-- 🔭 **I’m currently working on:** Improving My BCA Project "Attendance Management System"
-- 🌱 **I’m currently learning:** Problem Solving, Python and C Language
+<!--- - 🔭 **I’m currently working on:** Improving My BCA Project "Attendance Management System"
+- 🌱 **I’m currently learning:** Problem Solving, Python and C Language --->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=karthikpaii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
