@@ -3,11 +3,8 @@
 
 Contact Info: 👉 ✉️ **karthikpai282@gmail.com** 
 
-<!--- - 🔭 **I’m currently working on:** Improving My BCA Project "Attendance Management System"
-- 🌱 **I’m currently learning:** Problem Solving, Python and C Language --->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karthikpaii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ 🔭 **I’m currently working on:** Improving My BCA Project "Attendance Management System"
+- 🌱 **I’m currently learning:** Problem Solving, Python and C Language 
 
 
 ## 🌐 Socials:
@@ -34,9 +31,6 @@ Contact Info: 👉 ✉️ **karthikpai282@gmail.com**
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karthikpaii&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=karthikpaii&icon=0&color=0)](https://visitcount.itsvg.in)
