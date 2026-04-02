@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Karthik Pai
 **Aspiring Software Developer || MCA Student |Interested in Software Development with AI and Cybersecurity**
 
-Contact Info: 👉 ✉️ **karthikpai282@gmail.com** 
+Contact Info: 👉 ✉️ *** 
 
- 🔭 **I’m currently working on:** Improving My BCA Project "Attendance Management System"
+ 🔭 **I’m currently working on:** "
 - 🌱 **I’m currently learning:** Problem Solving, Python and C Language 
 
 
