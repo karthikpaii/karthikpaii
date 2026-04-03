@@ -3,7 +3,11 @@
 
 Contact Info: 👉 ✉️ *** 
 
- 🔭 **I’m currently working on:** "
+ 🔭 **I’m currently working on:** Fake News Detector AI Project "
+ **Upcoming Planned Project:**
+ 1. GSB Konkani Translator [indias first translator]
+ 2. Waste Throw Detection
+ 3. Area Message Sender
 - 🌱 **I’m currently learning:** Problem Solving, Python and C Language 
 
 
