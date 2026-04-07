@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Karthik Pai
 **Aspiring Software Developer || MCA Student |Interested in Software Development with AI and Cybersecurity**
 
-Contact Info: 👉 ✉️ *** 
+Contact Info: 👉 ✉️ *karthikpai282@gmail.com* 
 
- 🔭 **I’m currently working on:** Fake News Detector AI Project "
+ 🔭 **I’m currently working on:** Fake News Detector AI Project 
  **Upcoming Planned Project:**
  1. GSB Konkani Translator [indias first translator]
  2. Waste Throw Detection
