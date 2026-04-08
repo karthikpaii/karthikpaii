@@ -3,8 +3,7 @@
 
 Contact Info: 👉 ✉️ *karthikpai282@gmail.com* 
 
- 🔭 **I’m currently working on:** Fake News Detector AI Project 
- **Upcoming Planned Project:**
+ 🔭 **Upcoming Projects are:** 
  1. GSB Konkani Translator [indias first translator]
  2. Waste Throw Detection
  3. Area Message Sender
