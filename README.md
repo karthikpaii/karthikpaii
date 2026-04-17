@@ -3,10 +3,6 @@
 
 Contact Info: 👉 ✉️ *karthikpai282@gmail.com* 
 
- 🔭 **Upcoming Projects are:** 
- 1. GSB Konkani Translator [indias first translator]
- 2. Waste Throw Detection
- 3. Area Message Sender
 - 🌱 **I’m currently learning:** Problem Solving, Python and C Language 
 
 
