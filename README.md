@@ -3,6 +3,7 @@
 
 Contact Info: 👉 ✉️ *karthikpai282@gmail.com* 
 
+- **Currently Working On:** AI Fake News Detector [MCA Mini Project]
 - 🌱 **I’m currently learning:** Problem Solving, Python and C Language 
 
 
